@@ -10,6 +10,9 @@ module.exports = {
       })
     ]
   },
+  devServer: {
+    port: 8000
+  },
   pwa: {
     name: 'Vue Argon Dashboard',
     themeColor: '#172b4d',

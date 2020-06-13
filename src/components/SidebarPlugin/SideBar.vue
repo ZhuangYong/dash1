@@ -82,25 +82,25 @@
                 <!--Divider-->
                 <hr class="my-3">
                 <!--Heading-->
-                <h6 class="navbar-heading text-muted">人员管理</h6>
+                <h6 class="navbar-heading text-muted">三方地址</h6>
                 <!--Navigation-->
                 <ul class="navbar-nav mb-md-3">
                     <li class="nav-item">
                         <a class="nav-link"
                            href="">
-                            <i class="ni ni-spaceship"></i> 人员设备
+                            <i class="ni ni-spaceship"></i> bootstrap html
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link"
                            href="">
-                            <i class="ni ni-palette"></i> 考勤管理
+                            <i class="ni ni-palette"></i> react
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link"
                            href="">
-                            <i class="ni ni-ui-04"></i> 人事关系
+                            <i class="ni ni-ui-04"></i> vue
                         </a>
                     </li>
                 </ul>

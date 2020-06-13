@@ -18,8 +18,8 @@
         <sidebar-item :link="{name: '地图', icon: 'ni ni-pin-3 text-orange', path: '/maps'}"/>
         <sidebar-item :link="{name: '个人中心', icon: 'ni ni-single-02 text-yellow', path: '/profile'}"/>
         <sidebar-item :link="{name: '表格', icon: 'ni ni-bullet-list-67 text-red', path: '/tables'}"/>
-        <sidebar-item :link="{name: '登录', icon: 'ni ni-key-25 text-info', path: '/login'}"/>
-        <sidebar-item :link="{name: '注册', icon: 'ni ni-circle-08 text-pink', path: '/register'}"/>
+        <!--<sidebar-item :link="{name: '登录', icon: 'ni ni-key-25 text-info', path: '/login'}"/>
+        <sidebar-item :link="{name: '注册', icon: 'ni ni-circle-08 text-pink', path: '/register'}"/>-->
 
       </template>
     </side-bar>
